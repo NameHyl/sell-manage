@@ -1,0 +1,107 @@
+{
+  "id": "2610770",
+  "name": "sell-manage",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19993629",
+      "name": "眼睛",
+      "font_class": "eyeopen",
+      "unicode": "e825",
+      "unicode_decimal": 59429
+    },
+    {
+      "icon_id": "77031",
+      "name": "店铺",
+      "font_class": "shop",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "430694",
+      "name": "密码",
+      "font_class": "lock",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "874303",
+      "name": "订单",
+      "font_class": "order1",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "947048",
+      "name": "订单",
+      "font_class": "order2",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "1028071",
+      "name": "钱",
+      "font_class": "money",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1092161",
+      "name": "钱",
+      "font_class": "money1",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "3922112",
+      "name": "账号",
+      "font_class": "user",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "6204097",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7708024",
+      "name": "眼睛_闭",
+      "font_class": "eyeclose",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "10182100",
+      "name": "订单",
+      "font_class": "order3",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "14303333",
+      "name": "账号",
+      "font_class": "user1",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "14445833",
+      "name": "统计",
+      "font_class": "sum",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "15513193",
+      "name": "商品",
+      "font_class": "goods",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    }
+  ]
+}
